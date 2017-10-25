@@ -32,3 +32,23 @@ sysinfo.txt
 # Builds
 *.apk
 *.unitypackage
+
+Hand Dryer/Library/metadata/51/
+
+Hand Dryer/Library/metadata/53/
+
+*.info
+
+Hand Dryer/Library/ShaderCache/f/
+
+Hand Dryer/Library/metadata/00/
+
+Hand Dryer/\.idea/\.idea\.Hand Dryer/\.idea/
+
+Hand Dryer/Library/
+
+Hand Dryer/ProjectSettings/
+
+Hand Dryer/obj/Debug/
+
+Hand Dryer/\.idea/\.idea\.Hand Dryer/
